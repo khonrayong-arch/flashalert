@@ -1,0 +1,13 @@
+{
+  "name": "flashalert",
+  "version": "2.0.0",
+  "description": "FlashAlert - ระบบแจ้งเตือนน้ำท่วม",
+  "scripts": {
+    "build": "echo build"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/android": "^6.1.0"
+  }
+}

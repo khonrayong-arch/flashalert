@@ -1,0 +1,6 @@
+{
+  "appId": "com.rayonghi.flashalert",
+  "appName": "FlashAlert",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
